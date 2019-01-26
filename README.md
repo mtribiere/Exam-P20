@@ -1,5 +1,5 @@
 # Exam-P20
-L'examen des P20
+L'examen des P20 (Partie sudoku)
 
 ## Build
 ``
